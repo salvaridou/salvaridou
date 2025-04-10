@@ -13,12 +13,6 @@ I'm a 2nd year student at Bocconi University studying Economic and Social Scienc
 
 <hr>
 
-My Stats
-<br>
-
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=salvaridou&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="salvaridou's GitHub Stats" />
-</div>
 
 <hr>
 
