@@ -13,9 +13,6 @@ I'm a 2nd year student at Bocconi University studying Economic and Social Scienc
 
 <hr>
 
-
-<hr>
-
 ### 📈 My GitHub Contributions
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salvaridou&show_icons=true&count_private=true&theme=default)
