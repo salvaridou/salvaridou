@@ -17,11 +17,9 @@ I'm a 2nd year student at Bocconi University studying Economic and Social Scienc
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=salvaridou&show_icons=true&count_private=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=salvaridou&show_icons=true&count_private=true&hide_rank=true&theme=default" />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=salvaridou&theme=default" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvaridou&layout=compact&theme=default" alt="Top Languages" />
 
 </div>
 
