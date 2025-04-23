@@ -6,7 +6,7 @@ I'm a 2nd year student at Bocconi University studying Economic and Social Scienc
 </p>
 
 ### 🔥 Featured Projects
-- [🏛️ Prosperity Challenge Strategy](https://github.com/BocconiStudentsFinancialMarkets/Prosperity-Challenge-Sigfrido-Island) – Multi-round trading bot for the IMC competition.
+- [Prosperity Challenge Strategy](https://github.com/BocconiStudentsFinancialMarkets/Prosperity-Challenge-Sigfrido-Island) – Multi-round trading bot for the IMC competition.
 
 ### 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ssalvaridou/)
