@@ -5,11 +5,11 @@ I'm a 2nd year student at Bocconi University studying Economic and Social Scienc
   <img src="https://skillicons.dev/icons?i=python,r,java,html,css" />
 </p>
 
-### 🔥 Featured Projects
+### Featured Projects:
 [Prosperity Challenge Strategy](https://github.com/BocconiStudentsFinancialMarkets/Prosperity-Challenge-Sigfrido-Island) – Multi-round trading bot for the IMC competition. <br>
 [Statistics I: Higher Education and Drug Consumption](https://github.com/salvaridou/higher-education-drug-consumption) - Maximum  Grade in Project
 
-### 📫 Connect with Me
+### Connect with Me!
 [LinkedIn](https://www.linkedin.com/in/ssalvaridou/)
 
 <hr>
