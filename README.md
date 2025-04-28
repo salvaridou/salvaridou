@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Savvina Salvaridou!
+### Hi, I'm Savvina Salvaridou!
 I'm a 2nd year student at Bocconi University studying Economic and Social Sciences (BSc). I have a passion for building intelligent systems and participating in coding competitions, particularly related to the financial markets. 
 
 <p align="center">
